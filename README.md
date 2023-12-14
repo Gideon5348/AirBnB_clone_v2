@@ -1,6 +1,7 @@
 0x03. AirBnB clone - Deploy static
 
 File: 0-setup_web_static.sh
+
 A Bash script that sets up your web servers for the deployment of web_static. It must:
   Install Nginx if it not already installed
   Create the folder /data/ if it doesn’t already exist
